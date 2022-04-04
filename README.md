@@ -1,5 +1,2 @@
-- 👋 Hi, I’m @dev-brand0n!
-- 👀 I’m interested in a software development career!
-- 🌱 I’m currently learning JS, CSS, and HTML5. I won't be stopping there though, there's a lot I want to learn! 
-- 💞️ I’m looking to collaborate on projects that will help me conitnue to grow as a developer.
-- 📫 How to reach me bloeh109@gmail.com for now. Soon I will be posting links to my projects and socials!
+ Hi, I’m @dev-brand0n! Currenly working in blockchain development! 
+ "We don't know, we learn it, repeat. :)"
